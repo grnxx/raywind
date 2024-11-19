@@ -1,0 +1,12 @@
+{
+  "name": "raywind",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "devDependencies": {
+    "@nx/js": "20.1.2",
+    "nx": "20.1.2"
+  }
+}

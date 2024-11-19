@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "$schema": "node_modules/nx/schemas/project-schema.json",
+  "targets": {
+    "dep-graph": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "nx dep-graph"
+      }
+    }
+  },
+  "tags": ["root"]
+}

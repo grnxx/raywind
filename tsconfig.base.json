@@ -1,0 +1,9 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "baseUrl": ".",
+    "skipLibCheck": true
+  },
+  "exclude": ["node_modules"]
+}
